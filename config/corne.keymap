@@ -38,7 +38,7 @@
    &none    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &trans &trans &trans &trans &trans &trans
    &none    &kp EXCL    &kp LPAR     &kp RPAR      &kp TAB      &kp GRAVE      &trans &trans &trans &trans &trans &trans
    &none    &kp LSHFT   &kp LCTRL    &kp LGUI     &kp LALT      &kp ESC        &trans &trans &trans &trans &trans &trans
-                                    &trans &trans &none        &trans &trans &trans
+                                    &trans &trans &none        &trans  &trans &kp DEL
                         >;
                 };
 
